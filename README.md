@@ -1,5 +1,5 @@
 # code_samples
-Code samples for job applciations
+Code samples for job applications
 
 These C++ examples are from a now-retired piece of software. Unfortunately, any recent code of mine would be considered commercially sensitive and not something I could share.
 
